@@ -23,16 +23,14 @@ The Certificate of Participation and the full Scouting Report PDF are in [`docs/
 
 | Category | Challenges | Write-up |
 |---|---|---|
-| Cryptography | Cooking With This XOR That (M), Three is a Crowd (M), Collision (M) | [writeup](Cryptography/writeup.md) |
-| Exploitation & Enumeration | Cyber Command (E), Vuln Scanner (M) | [writeup](Exploitation%20%26%20Enumeration/writeup.md) |
-| Forensics | Fuzzy (H), Browsing (M) | [writeup](Forensics/writeup.md) |
-| Log Analysis | Choclympic Peaks (E), Grand Theft Log (M), 24 hours of Le Zook (H) | [writeup](Log%20Analysis/writeup.md) |
-| Network Traffic Analysis | Firehose (E), Enmeshed, Wifi PCAP (H) | [writeup](Network%20Traffic%20Analysis/writeup.md) |
-| OSINT | Wordsmithing (M), Barcode (M) | [writeup](OSINT/writeup.md) |
+| Cryptography | Cooking With This XOR That, Three is a Crowd, Collision | [writeup](Cryptography/writeup.md) |
+| Exploitation & Enumeration | Cyber Command, Vuln Scanner | [writeup](Exploitation%20%26%20Enumeration/writeup.md) |
+| Forensics | Fuzzy, Browsing | [writeup](Forensics/writeup.md) |
+| Log Analysis | Choclympic Peaks, Grand Theft Log, 24 hours of Le Zook | [writeup](Log%20Analysis/writeup.md) |
+| Network Traffic Analysis | Firehose, Enmeshed, Wifi PCAP | [writeup](Network%20Traffic%20Analysis/writeup.md) |
+| OSINT | Wordsmithing, Barcode | [writeup](OSINT/writeup.md) |
 | Password Cracking | Not RockYou, Rock Your Formats | [writeup](Password%20Cracking/writeup.md) |
-| Scanning & Reconnaisance | Recon: Cyber Command (E) | [writeup](Scanning%20%26%20Reconnaisance/writeup.md) |
-
-(E = Easy, M = Medium, H = Hard)
+| Scanning & Reconnaisance | Recon: Cyber Command | [writeup](Scanning%20%26%20Reconnaisance/writeup.md) |
 
 ## Tooling
 
