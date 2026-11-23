@@ -1,6 +1,6 @@
 # Cryptography
 
-## Cooking With This XOR That (Medium)
+## Cooking With This XOR That
 Challenge: We have found four messages from Liber8tion we believe were encoded using a variety of XOR schemes with CyberChef and sent in base64. If they used a key for the encoding, it was the key xor. Decode each message and submit the entire message so we can stop whatever they have planned.
 
 Tools: CyberChef
@@ -16,7 +16,7 @@ Q3: LAcXDHN/ZQEbRXF6NgINWXBpeRkaWVFNDwYBWlFUCBgCSUhJGQ==
 Q4: PA1FRgkaBwYcSFAREgAEGB0WREkaU3YSCxwcBQsQFQIDDQsVDlg=
 - for Q4: the output differential across the messages gives you the first plaintext byte, and from that you can back out the single-byte XOR key, then decode the rest with it
 
-## Three is a Crowd (Medium)
+## Three is a Crowd
 Challenge: We've managed to intercept three transmissions from Liber8tion's internal communications. One of them we've already cracked. Can you crack the others?
 
 Artifact:
@@ -41,7 +41,7 @@ Q1: What is the flag?
 - we know one plaintext, so recover the keystream: K = C1 XOR P1
 - then decrypt the rest: P2 = C2 XOR C1 XOR P1 (two chained XORs plus the known plaintext)
 
-## Collision (Medium)
+## Collision
 Artifact(s): collision.pyc
 Challenge: We found a file that doesn't look encrypted, but the code might be scrambled. Can you figure it out?
 
