@@ -1,0 +1,8 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+__pycache__/
+
+# never publish the private answer key, even if copied in here by accident
+DocumentedNCLFall2026/
